@@ -1,3 +1,14 @@
+# ============================================================
+# Dynamic Array
+# Category : Arrays & Hashing
+# Difficulty: Easy
+# NeetCode : https://neetcode.io/problems/dynamicArray
+# ============================================================
+# Runtime : 28 ms   | Beats 82.54%
+# Memory  : 7.9 MB  | Beats 98.89%
+# Submitted: 2026-05-08
+# ============================================================
+
 class DynamicArray:
     
     def __init__(self, capacity: int):
