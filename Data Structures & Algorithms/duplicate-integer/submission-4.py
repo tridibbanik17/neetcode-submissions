@@ -4,8 +4,8 @@
 # Difficulty: Easy
 # NeetCode : https://neetcode.io/problems/duplicate-integer
 # ============================================================
-# Runtime : 37 ms   | Beats 25.99%
-# Memory  : 13.7 MB  | Beats 1.62%
+# Runtime : 43 ms   | Beats 26.00%
+# Memory  : 11.2 MB  | Beats 2.18%
 # Submitted: 2026-05-10
 # ============================================================
 class Solution:
