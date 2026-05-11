@@ -1,3 +1,13 @@
+# ============================================================
+# Valid Anagram
+# Category : Arrays & Hashing
+# Difficulty: Easy
+# NeetCode : https://neetcode.io/problems/is-anagram
+# ============================================================
+# Runtime : 49 ms   | Beats 73.04%
+# Memory  : 8.7 MB  | Beats 23.06%
+# Submitted: 2026-05-10
+# ============================================================
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         s_list = []
