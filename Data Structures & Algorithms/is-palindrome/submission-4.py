@@ -1,3 +1,13 @@
+# ============================================================
+# Valid Palindrome
+# Category : Arrays & Hashing
+# Difficulty: Easy
+# NeetCode : https://neetcode.io/problems/is-palindrome
+# ============================================================
+# Runtime : 44 ms   | Beats 9.51%
+# Memory  : 8.0 MB  | Beats 17.90%
+# Submitted: 2026-05-12
+# ============================================================
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         l, r = 0, len(s) - 1
