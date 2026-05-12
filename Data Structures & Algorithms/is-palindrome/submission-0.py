@@ -1,5 +1,5 @@
 # ============================================================
-# Contains Duplicate
+# Valid Palindrome
 # Category : Arrays & Hashing
 # Difficulty: Easy
 # NeetCode : https://neetcode.io/problems/is-palindrome
