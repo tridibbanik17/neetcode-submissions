@@ -1,3 +1,14 @@
+# ============================================================
+# Products of Array Except Self
+# Category : Arrays & Prefix Sum
+# Difficulty: Medium
+# NeetCode : https://neetcode.io/problems/products-of-array-discluding-self
+# ============================================================
+# Runtime : 27 ms   | Beats 100.00%
+# Memory  : 8.2 MB  | Beats 9.69%
+# Submitted: 2026-05-15
+# ============================================================
+
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         res = [1] * len(nums)
