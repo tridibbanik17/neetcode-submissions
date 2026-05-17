@@ -1,3 +1,13 @@
+# ============================================================
+# Longest Consecutive Sequence
+# Category : Arrays & Hash Tables & Union Find
+# Difficulty: Medium
+# NeetCode : https://neetcode.io/problems/longest-consecutive-sequence
+# ============================================================
+# Runtime : 28 ms   | Beats 100.00%
+# Memory  : 7.9 MB  | Beats 100.00%
+# Submitted: 2026-05-16
+# ============================================================
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         counter = 1
