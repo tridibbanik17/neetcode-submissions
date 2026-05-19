@@ -1,3 +1,13 @@
+# ============================================================
+# 3Sum
+# Category : Array & Two Pointers & Sorting
+# Difficulty: Medium
+# NeetCode : https://neetcode.io/problems/three-integer-sum
+# ============================================================
+# Runtime : 78 ms   | Beats 99.96%
+# Memory  : 8.4 MB  | Beats 100.00%
+# Submitted: 2026-05-18
+# ============================================================
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         res = []
@@ -20,8 +30,3 @@ class Solution:
                     while nums[l] == nums[l-1] and l < r:
                         l+=1
         return res
-
-# 0, 0, 0, 0
-# ^i
-#   ^j
-#         ^k   
